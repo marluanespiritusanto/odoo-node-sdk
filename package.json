@@ -1,0 +1,15 @@
+{
+  "name": "odoo-node-sdk",
+  "version": "1.0.0",
+  "description": "Mini Odoo SDK written in Node.js using JSON RPC.",
+  "keywords": [
+    "nodejs",
+    "odoo"
+  ],
+  "author": "Marluan Espiritusanto",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "jayson": "^3.3.4"
+  }
+}

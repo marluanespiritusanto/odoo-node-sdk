@@ -5,7 +5,7 @@
 ### Odoo Authentication
 
 ```javascript
-const Odoo = require("odoo-node-sdk");
+const { Odoo } = require("odoo-node-sdk");
 
 const odoo = new Odoo({
   username,

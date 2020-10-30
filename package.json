@@ -2,6 +2,7 @@
   "name": "odoo-node-sdk",
   "version": "1.0.0",
   "description": "Mini Odoo SDK written in Node.js using JSON RPC.",
+  "main": "./lib/index.js",
   "keywords": [
     "nodejs",
     "odoo"
